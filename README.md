@@ -38,6 +38,10 @@
 
 ![手势演示](docs/screenshots/demo-gestures.gif)
 
+**十种天气图标** —— 全部 `Canvas` 手绘 + 循环动画，颜色跟随主题（顺序：晴 / 夜间晴 / 多云 / 夜间多云 / 阴 / 雾 / 雨 / 雪 / 雨夹雪 / 雷阵雨）：
+
+![天气图标动画](docs/screenshots/demo-icons.gif)
+
 ## 截图
 
 | 时钟 | 天气面板 | 配色面板 | 信息栏 |
